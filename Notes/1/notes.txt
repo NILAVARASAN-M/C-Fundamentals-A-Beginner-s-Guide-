@@ -1,0 +1,8 @@
+all the extra information from the 1_basic 
+
+1.) suppose if u are going to include a user defined cpp file, in ur current file then u have to include that cpp defined 
+by the user this is done with the help of syntax(include "file_name"), this is procedure for the user-defined files, also this file that u are 
+includding is actually is an header file of that .cpp file, that is .h file. so in this header file of that .cpp file, it is just
+the abstract of the file and we cant see the source code of the file in this header file.
+
+2.) for the .cpp files in the compiler and standard library we have to use the syntax like this #include<iostream>
